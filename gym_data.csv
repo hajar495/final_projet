@@ -1,0 +1,9 @@
+ID_Membre,Nom,Prenom,Age,Sexe,Abonnement,Date_Inscription,Seances_Mois,Poids_kg,Taille_cm,Calories_Brulees,Coach
+101,El Amrani,Hajar,20,F,Premium,2024-06-12,18,58,165,4200,Yassine
+102,Benali,Omar,28,M,Standard,2023-11-03,12,82,178,3100,Yassine
+103,Kadiri,Hajar,24,F,Basic,2024-01-20,20,65,170,4600,Yassine
+104,Chraibi,Mehdi,35,M,Basic,2022-09-15,6,90,180,1800,Yassine
+105,Saidi,Amine,31,M,Standard,2023-05-27,10,70,168,2900,Amina
+106,Benali,Youssef,22,M,Premium,2024-03-02,22,75,175,5100,Karim
+107,Bouaziz,Ali,27,M,Standard,2023-07-10,14,68,172,3500,Yassine
+108,Hafidi,Salma,30,F,Basic,2024-01-05,8,62,167,2700,Amina
